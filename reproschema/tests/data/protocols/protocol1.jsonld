@@ -7,9 +7,16 @@
 		"es": "Protocol1_es"
 	},
 	"description": "example Protocol",
+<<<<<<< HEAD
 	"schemaVersion": "1.0.0-rc3",
 	"version": "0.0.1",
 	"landingPage": "http://example.com/sample-readme.md",
+=======
+	"schemaVersion": "1.0.0-rc4",
+	"version": "0.0.1",
+	"landingPage": {"@id": "http://example.com/sample-readme.md",
+		"inLanguage": "en"},
+>>>>>>> 9597b24d0a63210508911d152f1e94175138c32e
 	"messages": [
 		{
 			"message": "Test message: Triggered when item1 value is greater than 0",

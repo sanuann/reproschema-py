@@ -4,7 +4,11 @@
     "@id": "item1.jsonld",
     "prefLabel": "item1",
     "description": "Q1 of example 1",
+<<<<<<< HEAD
     "schemaVersion": "1.0.0-rc3",
+=======
+    "schemaVersion": "1.0.0-rc4",
+>>>>>>> 9597b24d0a63210508911d152f1e94175138c32e
     "version": "0.0.1",
     "audio": {
       "@type": "AudioObject",
